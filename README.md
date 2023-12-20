@@ -16,7 +16,7 @@ switch(fno1){
         printf("you have entered 1 admin\n");
          printf("there are three admin in gc\n");
          printf("1.kunth\n 2.ichigo \n3.krix\n");
-         printf("enter any number from above to get information about admin \n:");
+         printf("\nenter any number from above to get information about admin \n:");
          scanf("%d",&ad1);
          
 switch(ad1){
